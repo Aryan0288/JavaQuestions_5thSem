@@ -9,12 +9,10 @@ public class PrimeFactor {
             System.out.print("2 x ");
             n/=2;
         }
-        // System.out.println(n);
         for(int i=3;i<=Math.sqrt(n);i+=2){
-            // System.out.println(555);
             while(n%i==0){
                 System.out.print(i+"x ");
-                n/=i;
+                n/=i;  
             }
         }
         if(n>2){
