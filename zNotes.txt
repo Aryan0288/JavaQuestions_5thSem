@@ -8,3 +8,4 @@ Max heap = Parent Node > Child Node
 
 Min heap = Parent Node < child Node
 
+Heapify => creation of heap
