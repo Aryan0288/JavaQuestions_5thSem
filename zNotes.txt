@@ -1,3 +1,10 @@
 * A complete binary tree that satisfies the "Heap" Property.
 
 At most 2 child.
+
+Parent Formula = Parent((i-1)/2);  it's applicable only complete binary tree;
+
+Max heap = Parent Node > Child Node
+
+Min heap = Parent Node < child Node
+
