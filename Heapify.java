@@ -50,8 +50,7 @@ public class Heapify {
         int temp = arr[0]; 
         
         arr[0] = arr[i]; 
-        
-        arr[i] = temp; 
+        arr[i] = temp;
         
         HeapifyMethod(arr, i, 0); 
         
