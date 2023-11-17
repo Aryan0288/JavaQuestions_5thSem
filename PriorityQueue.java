@@ -98,7 +98,7 @@ class PriorityQueue {
 
     pq.insert(20); 
 
-    pq.insert(30); 
+    pq.insert(30);
 
     pq.insert(40); 
 
