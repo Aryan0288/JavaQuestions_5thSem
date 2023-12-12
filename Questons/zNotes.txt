@@ -9,3 +9,21 @@ Max heap = Parent Node > Child Node
 Min heap = Parent Node < child Node
 
 Heapify => creation of heap
+
+Syllabus
+
+Insertion sort
+selection sort
+Bubble sort
+Min heap
+Max heap
+Kmp Algo
+Z Algo
+Merge sort
+Quick sort
+linear search 
+binary search 
+lcm
+gcd 
+primefactorization
+Manacher's Algo

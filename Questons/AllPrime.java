@@ -1,3 +1,4 @@
+package Questons;
 import java.util.*;
 
 public class AllPrime {

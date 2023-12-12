@@ -1,3 +1,4 @@
+package Questons;
 public class QuickSort {
     static int findPivot(int[] arr,int start,int end){
         int pivot =arr[end];

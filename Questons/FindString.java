@@ -1,3 +1,4 @@
+package Questons;
 public class FindString {
     public static void main(String[] args) {
         // String s="aaaaaabc";

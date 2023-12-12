@@ -1,3 +1,4 @@
+package Questons;
 public class BubbleSort {
     static void swap(int[] arr, int i, int j) {
         int temp = arr[i];

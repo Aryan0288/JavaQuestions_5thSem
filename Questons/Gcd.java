@@ -1,3 +1,4 @@
+package Questons;
 class Gcd {
 
     static int findGCD(int a,int b){
