@@ -17,8 +17,7 @@ public class knapSack {
                 int MaxSlected=v[n-1]+ kSack(w, v, n-1, cap, memo);
                 int MaxNotSelected=kSack(w, v, n-1, cap, memo);
                 int actual=Math.max(MaxSlected,MaxNotSelected);
-                memo
-                [n][cap]=actual;
+                // memo[n][cap]=actual;
                 return actual;
             }
             else{
